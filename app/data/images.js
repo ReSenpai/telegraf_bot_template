@@ -1,0 +1,5 @@
+
+module.exports = {
+    cyberpunkTerminal: 'AgACAgIAAxkBAAIH918W-n9eDBDemtAJmvtajuGOs12JAAJYrzEbiKW4SCOigB7hAgoFIPfhkS4AAwEAAwIAA3kAAzSSBAABGgQ',
+    okkoBotArt: 'AgACAgIAAxkBAAIH-l8W-thTvaCWw8NkRuqPA4QmpY5oAAJZrzEbiKW4SDXS9UE4f92y9L7Aki4AAwEAAwIAA3kAAxygBAABGgQ'
+}
